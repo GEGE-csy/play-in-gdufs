@@ -1,0 +1,110 @@
+const time = [{
+		id: '01',
+		detailTime: '08:30-09:10',
+		class: '第一节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '02',
+		detailTime: '09:10-09:50',
+		class: '第二节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '03',
+		detailTime: '10:10-10:50',
+		class: '第三节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '04',
+		detailTime: '10:50-11:30',
+		class: '第四节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '05',
+		detailTime: '11:35-12:15',
+		class: '第五节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '06',
+		detailTime: '12:30-13:10',
+		class: '第六节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '07',
+		detailTime: '13:10-13:50',
+		class: '第七节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '08',
+		detailTime: '14:00-14:40',
+		class: '第八节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '09',
+		detailTime: '14:40-15:20',
+		class: '第九节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '10',
+		detailTime: '15:40-16:20',
+		class: '第十节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '11',
+		detailTime: '16:20-17:00',
+		class: '第十一节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '12',
+		detailTime: '18:30-19:10',
+		class: '第十二节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '13',
+		detailTime: '19:10-19:50',
+		class: '第十三节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '14',
+		detailTime: '20:00-20:40',
+		class: '第十四节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	},
+	{
+		id: '15',
+		detailTime: '20:40-21:20',
+		class: '第十五节',
+		img: 'https://play-in-gdufs.oss-cn-beijing.aliyuncs.com/temp/jiahao.png',
+		hasCourse: false,
+	}
+];
+
+export {
+	time
+}

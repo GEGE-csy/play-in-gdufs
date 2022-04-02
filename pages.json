@@ -1,0 +1,52 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "玩转广外"
+			}
+		}, {
+			"path": "pages/home/home"
+
+		}, {
+			"path": "pages/book/book"
+
+		}, {
+			"path": "pages/course/course"
+			
+
+		}, {
+			"path": "pages/publish/publish"
+			
+		}, {
+			"path": "pages/intro/intro"
+			
+
+		}, {
+			"path": "pages/car/car"
+			
+
+		}, {
+			"path": "pages/service/service"
+			
+
+		}, {
+			"path": "pages/scene/scene"
+			
+
+		}, {
+			"path": "pages/course-login/course-login"
+			
+
+		}, {
+			"path": "pages/preview/preview"
+			
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "玩转广外",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#f8f8f8"
+	}
+}
